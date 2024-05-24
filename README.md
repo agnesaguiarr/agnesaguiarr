@@ -1,16 +1,15 @@
-## Hi there 👋
+![VSOFT-GPTW](https://github.com/agnesaguiarr/agnesaguiarr/assets/143709456/ca211a84-1dec-4862-b464-0cecafaaa5e8)
 
-<!--
-**agnesaguiarr/agnesaguiarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm AGNES AGUIAR 🐼
+:computer: Assistente de Antifraudes 1 - :pushpin: VSOFT 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<div> 
+ <!-- <a href = "mailto:agnes.aguiar@vsoft.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.linkedin.com/in/agnesaguiar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
